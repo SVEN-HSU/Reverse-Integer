@@ -1,0 +1,6 @@
+D:\C&C++ samples\Reverse Integer\Reverse Integer\bin\Debug\Reverse Integer.exe.config
+D:\C&C++ samples\Reverse Integer\Reverse Integer\bin\Debug\Reverse Integer.exe
+D:\C&C++ samples\Reverse Integer\Reverse Integer\bin\Debug\Reverse Integer.pdb
+D:\C&C++ samples\Reverse Integer\Reverse Integer\obj\Debug\Reverse Integer.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\Reverse Integer\Reverse Integer\obj\Debug\Reverse Integer.exe
+D:\C&C++ samples\Reverse Integer\Reverse Integer\obj\Debug\Reverse Integer.pdb
